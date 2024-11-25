@@ -24,10 +24,10 @@
 
 2. Compilation and Execution  
 
-   Requirements  
-    • A Linux-based operating system or an emulator capable of handling syscalls.  
-    • NASM (Netwide Assembler) for assembling the code.  
-    • ld (GNU Linker) for linking the object files.  
+Requirements  
+  • A Linux-based operating system or an emulator capable of handling syscalls.  
+  • NASM (Netwide Assembler) for assembling the code.  
+  • ld (GNU Linker) for linking the object files.  
 
   Steps to Compile and Run  
 
